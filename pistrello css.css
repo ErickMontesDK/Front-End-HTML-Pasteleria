@@ -44,6 +44,18 @@ table{
     vertical-align: bottom;
 }
 
+.banner3{
+    background-image: url(./Sources/Banners/nosotros.jpg);
+    background-size: 100% 100%;
+    font-size:large;
+    color: whitesmoke;
+    vertical-align: bottom;
+    opacity: 70%;
+    height: 400px;
+    font-style: italic;
+    font-weight:normal;
+}
+
 .bannermessage{
     background-color: rgba(212, 77, 92, .7);
 }
@@ -130,7 +142,4 @@ table{
     font-style:italic;
     text-align:left;
     
-}
-a.categorie{
-    color: #dad0d1;
 }
